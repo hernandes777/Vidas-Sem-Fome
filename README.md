@@ -1,0 +1,1 @@
+VidaSemFome é um projeto em andamento que tem como objetivo principal combater a fome por meio de uma plataforma digital. Atualmente, o projeto conta apenas com o front-end do site, oferecendo funcionalidades básicas de acesso para os usuários.
